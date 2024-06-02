@@ -1,0 +1,31 @@
+.headerEl {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px 10px;
+}
+.headerEl > img {
+  height: 100px !important;
+  width: 40% !important;
+  margin: 0 auto;
+}
+.headerEl > h2 {
+  color: black;
+  padding: 20px 30px 20px;
+  width: 80%;
+  margin: 0 auto;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 38.73px;
+}
+.headerEl > p {
+  color: black;
+  padding-bottom: 30px;
+  width: 80%;
+  margin: 0 auto;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+}

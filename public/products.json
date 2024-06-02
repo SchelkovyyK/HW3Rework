@@ -1,0 +1,62 @@
+[
+  {
+    "name": "3x3 Rubik's Cube",
+    "price": 9.99,
+    "id": 1,
+    "img": "public/images/rubik1.png"
+  },
+  {
+    "name": "3x3 Rubik's Cube",
+    "price": 6.99,
+    "id": 2,
+    "img": "public/images/rubik2.png"
+  },
+  {
+    "name": "2x2 Rubik's Cube",
+    "price": 14.99,
+    "id": 3,
+    "img": "public/images/rubik3.png"
+  },
+  {
+    "name": "2x2 Rubik's Cube",
+    "price": 49.99,
+    "id": 4,
+    "img": "public/images/rubik4.png"
+  },
+  {
+    "name": "2x2 Rubik's Cube",
+    "price": 19.99,
+    "id": 5,
+    "img": "public/images/rubik5.png"
+  },
+  {
+    "name": "4x4 Rubik's Cube",
+    "price": 12.99,
+    "id": 6,
+    "img": "public/images/rubik6.png"
+  },
+  {
+    "name": "4x4 Rubik's Cube",
+    "price": 8.99,
+    "id": 7,
+    "img": "public/images/rubik7.png"
+  },
+  {
+    "name": "4x4 Rubik's Cube",
+    "price": 17.99,
+    "id": 8,
+    "img": "public/images/rubik8.png"
+  },
+  {
+    "name": "10x10 Rubik's Cube",
+    "price": 59.99,
+    "id": 9,
+    "img": "public/images/rubik9.png"
+  },
+  {
+    "name": "Megaminx",
+    "price": 22.99,
+    "id": 10,
+    "img": "public/images/rubik10.png"
+  }
+]

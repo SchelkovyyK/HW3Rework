@@ -1,0 +1,24 @@
+.ButtonPlacement {
+  display: flex;
+  justify-content: space-evenly;
+  padding:0px 20px 40px;
+}
+.ButtonPlacement > button {
+  border-radius: 2px;
+  padding: 10px 3%;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  text-align: center;
+  border: 0.5px solid #3C4242;
+  cursor: pointer;
+}
+.firstButton {
+  background: rgb(0, 70, 128);
+  color: #fff;
+}
+.secondButton{
+    color: rgb(0, 70, 128);
+    background: #fff !important;
+}
